@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ### 💡 Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsgo22jw">
