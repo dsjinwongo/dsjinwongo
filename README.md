@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Tech
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=appveyor&logo=Spring&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=6DB33F"/></a>
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsgo22jw">
 <img src="https://github-readme-stats.vercel.app/api?username=dsjinwongo" height="165">
