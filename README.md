@@ -1,4 +1,4 @@
-### LeeJinWon
+### 😶 LeeJinWon
 
 <!--
 **dsjinwongo/dsjinwongo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsgo22jw">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=dsjinwongo" height="165">
