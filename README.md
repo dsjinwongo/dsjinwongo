@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 📫 How to reach me: dsgo22jw@naver.com
 
 ### 📜 Certificate<br>
-SQLD
+#### SQLD
