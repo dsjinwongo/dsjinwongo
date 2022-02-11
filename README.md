@@ -24,3 +24,6 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on https://velog.io/@dsjinwongo<br>
 📫 How to reach me: dsgo22jw@naver.com
+
+Certificate
+SQLD
