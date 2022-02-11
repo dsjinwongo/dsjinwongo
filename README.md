@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/dsjinwongo/dsjinwongo"/></a>
-### 💡 Tech
+### 💡Tech
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 🔭 I’m currently working on https://velog.io/@dsjinwongo<br>
 📫 How to reach me: dsgo22jw@naver.com
 
-Certificate<br>
+### 📜 Certificate<br>
 SQLD
