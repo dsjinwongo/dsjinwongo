@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 
 ## 📚 Certificate
+### 📕 정보처리기사
 ### 📗 SQLD
 <br>
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dsgo22jw">
